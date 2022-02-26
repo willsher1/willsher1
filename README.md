@@ -1,4 +1,4 @@
-### Hi there 👋
+### Don't Read This
 
 <!--
 **willsher1/willsher1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
